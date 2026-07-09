@@ -1,7 +1,7 @@
 # Hi, I'm Abelardo Rodríguez-Pretelín 👋
 
-**Postdoctoral researcher in computational hydrogeology** · Instituto de Geología, UNAM (SECIHTI Postdoctoral Fellowship)
-Dr.-Ing., University of Stuttgart (2020) · Ph.D. advisor: Wolfgang Nowak
+**Researcher in computational hydrogeology** · Instituto de Geología, UNAM
+Dr.-Ing., University of Stuttgart (2020)
 
 I build **AI-driven, reproducible methods for groundwater protection and management under uncertainty** — deep-learning surrogates, Bayesian uncertainty quantification, generative geostatistics, and reinforcement learning for aquifer decision-making.
 
