@@ -3,9 +3,9 @@
 **Researcher in computational hydrogeology** · Instituto de Geología, UNAM
 Dr.-Ing., University of Stuttgart (2020)
 
-I build **AI-driven, reproducible methods for groundwater protection and management under uncertainty** — deep-learning surrogates, Bayesian uncertainty quantification, generative geostatistics, and reinforcement learning for aquifer decision-making.
+I build **AI-driven, reproducible methods for groundwater protection and management under uncertainty** — deep-learning surrogates, Bayesian uncertainty quantification, generative geostatistics, multi-objective and heuristic optimization, and reinforcement learning for aquifer decision-making.
 
-🔬 **Research line:** *Closed-loop groundwater management* — making the delineation of wellhead protection areas fast (surrogates), realistic (generative geology) and actionable (sequential design & control).
+🔬 **Research line:** *Closed-loop groundwater management* — making the delineation of wellhead protection areas fast (surrogates), realistic (generative geology) and actionable (multi-objective optimization, sequential design & control).
 
 - 🌐 ORCID: [0000-0002-3560-2410](https://orcid.org/0000-0002-3560-2410)
 - 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=Tf2FVqAAAAAJ)
@@ -28,6 +28,6 @@ I build **AI-driven, reproducible methods for groundwater protection and managem
 
 ## Interests
 
-`computational hydrogeology` · `uncertainty quantification` · `deep-learning surrogates` · `optimal experimental design` · `reinforcement learning` · `open reproducible science`
+`computational hydrogeology` · `uncertainty quantification` · `deep-learning surrogates` · `multi-objective optimization` · `heuristic optimization / metaheuristics` · `optimal experimental design` · `reinforcement learning` · `open reproducible science`
 
 <sub>Currently developing open, reproducible tools that bridge subsurface simulation, machine learning and decision-making for sustainable groundwater management.</sub>
